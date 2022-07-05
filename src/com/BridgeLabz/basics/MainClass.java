@@ -1,4 +1,4 @@
-package com.bridgelabz.basics;
+package com.BridgeLabz.basics;
 
 public class MainClass {
 
@@ -16,7 +16,7 @@ public class MainClass {
         System.out.println((int)c);
         System.out.println(f);
         System.out.println(b);
-        System.out.println("Added");
+        System.out.println("Added again");
 
         System.out.println("Hello world");
     }
