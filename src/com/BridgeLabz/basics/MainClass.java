@@ -16,6 +16,7 @@ public class MainClass {
         System.out.println((int)c);
         System.out.println(f);
         System.out.println(b);
+        System.out.println("Added");
 
         System.out.println("Hello world");
     }
