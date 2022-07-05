@@ -1,4 +1,4 @@
-package com.bridgelabz.basics;
+package com.BridgeLabz.basics;
 
 public class MainClass {
 
